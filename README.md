@@ -17,7 +17,8 @@ Tools: Git, Docker, VS Code
 
 🌟 Featured Projects:
 Focus Helper: A Chrome extension that helps users stay focused by reducing distractions.
-Disease Diagnoser: ML model predicgting the success of disease diagnosis based off a multitude of factors.
+Disease Diagnoser: ML model predicting the success of disease diagnosis based off a multitude of factors.
+
 📈 Open to Summer 2025 internship roles in both SWE and Data Science!
 
 📫 How to reach me:
