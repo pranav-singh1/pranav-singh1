@@ -3,14 +3,18 @@ I'm a Computer Science & Data Science freshman at UW-Madison, passionate about c
 
 💻 About Me:
 🎓 Major: Computer Science & Data Science
+
 🏢 Currently learning: Full-stack development (React, Flask), Machine Learning, and Data Analytics
+
 🎯 Aiming to: Leverage tech skills to create scalable solutions, and explore entrepreneurship opportunities
-🌱 Fun Projects: 🤫🤫
+
+
 🛠️ Technologies I work with:
 Programming Languages: Java, Python, JavaScript, C#, HTML/CSS
 Web Development: React, Flask, REST APIs
 Data Science: Python (pandas, NumPy), R, SQL
 Tools: Git, Docker, VS Code
+
 🌟 Featured Projects:
 Focus Helper: A Chrome extension that helps users stay focused by reducing distractions.
 Disease Diagnoser: ML model predicgting the success of disease diagnosis based off a multitude of factors.
