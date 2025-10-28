@@ -1,4 +1,4 @@
-# Hey, I’m Pranav 👋
+# Hi I’m Pranav 🦒
 
 I'm a CS & Data Science student at UW–Madison
 
