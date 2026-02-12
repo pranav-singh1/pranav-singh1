@@ -7,4 +7,6 @@ Building [EchoLearn](https://echolearn.ai) – a voice-based AI study tool to he
 
 Feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/pranav-singh1)  
+[LinkedIn](https://www.linkedin.com/in/pranav-singh1) 
+[Personal Site](https://www.pranav-singh.com/)
+
